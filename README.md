@@ -26,19 +26,6 @@ This project uses the following dependencies:
 - Google Fonts: Fira Sans, Merriweather
 - CSS for styling the page
 
-## File Structure
-
-landing-page/
-│
-├── css/
-│   └── styles.css
-│
-├── js/
-│   └── app.js
-│
-├── index.html
-└── README.md
-
 ## Author
 
 Zakaria Wildali
